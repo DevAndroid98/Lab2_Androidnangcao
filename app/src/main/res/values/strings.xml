@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DemoBroadCast</string>
+    <string name="erro">Chuỗi nhập vào phải có đủ 9 kí tự</string>
+</resources>
